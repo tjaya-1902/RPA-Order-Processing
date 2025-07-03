@@ -1,0 +1,12 @@
+X-Sender: customer6@example.com
+X-Receiver: recipient@example.com
+MIME-Version: 1.0
+From: customer6@example.com
+To: recipient@example.com
+Date: 3 Jul 2025 12:39:15 +0200
+Subject: Order Confirmation - O100006
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+Hello Customer 6,=0D=0A=0D=0AUnfortunately the item in your order=
+ is out of stock.=0D=0ATherefore your order has been  canceled.

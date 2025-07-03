@@ -1,0 +1,18 @@
+Subject: Stock Arrival =?utf-8?b?4oCT?= P005
+From: supplier4@example.com
+To: inventory@yourcompany.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Stock Update Notification
+
+Product ID: P005
+Product Name: Gadget Y
+Quantity Arrived: 73
+Date: 01/07/2025
+
+Please update inventory records accordingly.
+
+Regards,
+Supplier 4

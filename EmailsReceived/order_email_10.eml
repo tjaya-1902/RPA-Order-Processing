@@ -1,0 +1,27 @@
+Subject: New Order =?utf-8?b?4oCT?= O100010
+From: customer10@example.com
+To: orders@yourcompany.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Dear Sales Team,
+
+Please find below our new order:
+
+Customer: Customer 10
+Order ID: O100010
+Order Date: 24/06/2025
+
+Items:
+- Product ID: P004, Quantity: 1
+
+Delivery Address:
+Customer 10 Warehouse
+123 Customer Street
+City 10, Country
+
+Requested delivery: 27/06/2025
+
+Best regards,
+Customer 10 Procurement Team
